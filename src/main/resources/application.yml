@@ -1,0 +1,6 @@
+chatbot:
+  replies:
+    hi: "Hello "
+    bye: "Goodbye"
+    thanks: "You're very welcome!"
+    price: "Our plans start at $10/month."
