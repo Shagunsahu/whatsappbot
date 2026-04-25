@@ -42,4 +42,4 @@ Then, update your Meta App dashboard with the generated Ngrok HTTPS URL.
 ## API Testing
 You can test the application using Postman as shown below:
 
-![Postman Screenshot](Screenshot 2026-04-25 234628.png)
+![Postman Screenshot](Screenshot%202026-04-25%20234628.png)
